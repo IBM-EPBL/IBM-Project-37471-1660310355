@@ -1,0 +1,16 @@
+button
+{
+   height:30px;
+   width:100px;
+   background-color:blanchedalmond;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size:10px;
+   color:black;
+}
+body
+{
+    background-image:url("https://images.idgesg.net/images/article/2019/11/cso_detecting_phishing_attempts_magnifying_lens_by_andreus_gettyimages-1128503636__fish_hook_by_clker-free-vector-images_cc0_via_pixabay-100816823-large.jpg?auto=webp&quality=85,70");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
